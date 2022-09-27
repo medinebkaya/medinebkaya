@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Java, Kotlin and Mobile Programming
+🌱 I’m currently learning Java
 
 
 
