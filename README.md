@@ -19,6 +19,7 @@ I'm currently learning Flutter
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=medinebkaya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=medinebkaya&label=Profile%20Views&color=10&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
