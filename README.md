@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Flutter
+Hi there. I am Medine. I'm currently learning Flutter
 
 
 ## 🌐 Socials:
