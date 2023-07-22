@@ -1,3 +1,4 @@
+<!--
 # 💫 About Me:
 Hi there. I am Medine. I'm currently learning Flutter
 
@@ -25,3 +26,4 @@ Hi there. I am Medine. I'm currently learning Flutter
 [![](https://visitcount.itsvg.in/api?id=medinebkaya&label=Profile%20Views&color=10&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
