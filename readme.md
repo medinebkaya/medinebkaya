@@ -25,7 +25,7 @@ Başlıca olarak **PostgreSQL**, **Python** ve **XML** teknolojilerini kullanıy
 
 ## 📫 Bana Ulaşın
 
-- [LinkedIn](https://www.linkedin.com/in/kullanici-adiniz)  <!-- Kendi LinkedIn adresinizi ekleyin -->
+- [LinkedIn](https://www.linkedin.com/in/medinebkaya)  <!-- Kendi LinkedIn adresinizi ekleyin -->
 
 ---
 
