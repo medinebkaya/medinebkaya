@@ -1,6 +1,6 @@
 # Merhaba, ben Medine! 👋
 
-Odoo18 ile ERP uygulamaları geliştirmeyi öğreniyorum.  
+**Odoo18** ile ERP uygulamaları geliştirmeyi öğreniyorum.  
 Başlıca olarak **PostgreSQL**, **Python** ve **XML** teknolojilerini kullanıyorum.
 
 ## 🚀 Hakkımda
